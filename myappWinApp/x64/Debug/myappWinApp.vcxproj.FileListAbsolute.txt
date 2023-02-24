@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\myappWinApp\myappWinApp\x64\Debug\myappWinApp.vcxproj.AssemblyReference.cache
+C:\Users\victo\source\repos\myappWinApp\myappWinApp\x64\Debug\myappWinApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\myappWinApp\myappWinApp\x64\Debug\myappWinApp.MyForm.resources
+C:\Users\victo\source\repos\myappWinApp\myappWinApp\x64\Debug\myappWinApp.vcxproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\calculator\myappWinApp\x64\Debug\myappWinApp.vcxproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\calculator\myappWinApp\x64\Debug\myappWinApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\calculator\myappWinApp\x64\Debug\myappWinApp.MyForm.resources
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\calculator\myappWinApp\x64\Debug\myappWinApp.vcxproj.GenerateResource.cache
